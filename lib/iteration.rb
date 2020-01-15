@@ -13,7 +13,7 @@ while row_index < src.count do
   end
   return_array
 end
-  
+
 end
 
 def find_greater_pair(src)
