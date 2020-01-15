@@ -14,7 +14,6 @@ while row_index < src.count do
   return_array
 end
 
-end
 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
